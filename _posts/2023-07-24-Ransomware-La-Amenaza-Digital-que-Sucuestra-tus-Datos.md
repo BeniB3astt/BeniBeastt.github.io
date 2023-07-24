@@ -64,6 +64,17 @@ Si bien el ransomware puede ser bastante peligroso y devastador para tu sistema 
 - **Educación y concienciación en Ciberseguridad:** En el caso de una empresa, hay que capacitar a los trabajadores sobre las prácticas seguras a seguir y la identificación de correos electrónicos de phishing y enlaces maliciosos.
 - **Restricción de Privilegios:** Limita el acceso y los privilegios de usuario solo a aquellos que necesiten acceso a ciertos archivos y sistemas.
 
+## Algunos de los Ransomwares mas importantes de la Historia.
+
+Aquí muestro los 3 Ransomwares mas importantes de la historia:
+
+- **WannaCry:** Apareció en mayo de 2017 y se propagó a una escala global en un corto período de tiempo. WannaCry afectó a más de 150 países y miles de organizaciones, incluyendo hospitales y empresas. Se aprovechó de una vulnerabilidad en los sistemas Windows, conocida como EternalBlue, para infectar y cifrar los archivos de las víctimas. Fue el primer ransomware en utilizar la técnica de gusano para propagarse rápidamente a través de redes interconectadas.
+
+- **NotPetya:** (Petya, ExPetr): Apareció también en 2017 y causó un gran impacto, especialmente en Ucrania, donde comenzó su propagación. Aunque inicialmente se presentó como ransomware, más tarde se descubrió que su objetivo principal era causar daños a gran escala y no obtener rescates. Se utilizó una actualización de software falsa para distribuir este ransomware y, una vez infectado un sistema, cifraba el MBR (Registro Maestro de Arranque) y exigía un rescate para restaurar los archivos.
+
+- **GandCrab:** GandCrab se convirtió en uno de los ransomwares más polémicos después de su aparición en 2018. Se distribuyó a través de kits de exploit y campañas de correo electrónico de phishing, y se dirigía tanto a usuarios como a empresas. Los ciberdelincuentes detrás de GandCrab demandaron rescates en criptomonedas y se estima que obtuvieron cientos de millones de dólares.
+
+
 ## Conclusión
 
 El ransomware representa una amenaza bastante peligrosa en el mundo digital,sobre todo, para las empresas, que son el punto de mira de los atacantes, tienen el potencial de causar daños significativos a usuarios y empresas. Al estar informados sobre cómo funciona y seguir prácticas de seguridad, podemos fortalecer nuestras defensas y reducir la probabilidad de caer víctimas de este tipo de ataque.
