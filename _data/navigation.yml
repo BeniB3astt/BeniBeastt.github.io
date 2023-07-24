@@ -9,3 +9,5 @@ main:
     url: /tags/
   - title: "Sobre mí"
     url: /about/
+  - title: "Buscador"
+    url: /Buscador/
