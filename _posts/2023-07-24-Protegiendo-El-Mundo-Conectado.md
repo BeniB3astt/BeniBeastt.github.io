@@ -20,7 +20,7 @@ tags:
 
 ## Introducción
 
-En esta ocasión, hablaremos sobre la importancia que tiene el campo de la ciberseguridad en la era moderna y de la tecnología, ya que a día de hoy no se la da la importandia que deberia tener.
+En esta ocasión, hablaremos sobre la importancia que tiene el campo de la ciberseguridad en la era moderna y de la tecnología, ya que a día de hoy no se le da la importancia que deberia tener.
 En esta época en el que la informatica crece sin frenos, el mundo está más conectado que nunca. Desde dispositivos inteligentes y redes sociales hasta sistemas financieros, nuestra vida cotidiana depende en gran medida de la tecnología y la información que circula a través de la red. Sin embargo, esta creciente conexión también ha dado lugar a una creciente preocupación: la ciberseguridad y los diferentes y frecuentes ataques informáticos que han surgido.
 
 ## ¿Qué es la Ciberseguridad?
