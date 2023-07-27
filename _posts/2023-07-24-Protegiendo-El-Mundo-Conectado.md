@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/Articulo-Ciberseguridad/portada.jpg
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: 
 categories:
   - Ciberseguridad
 tags: 

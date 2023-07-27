@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/Articulo-Ransomware/ransomware.jpeg
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: 
 categories:
   - Ciberseguridad
   - Virus
