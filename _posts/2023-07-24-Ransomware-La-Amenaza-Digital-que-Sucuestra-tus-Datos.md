@@ -27,6 +27,10 @@ tags:
 
 El ransomware ha surgido como una de las amenazas más peligrosas en el mundo digital. Este tipo de malware tiene la capacidad de bloquear el acceso a tus archivos y sistemas, exigiendo un rescate para recuperarlos. En este artículo, exploraremos qué es el ransomware, cómo funciona y qué medidas podemos tomar para protegernos contra esta peligrosa amenaza.
 
+⚠️ IMPORTANTE:⚠️: Estos Articulos están realizados con FINES ÉTICOS y MORALES para concienciar al público de los diferentes ataques que pueden sufrir, como funcionan por detrás y como protegerse de ellos lo mejor que se pueda. EN NINGÚN MOMENTO SE HACE APLOGÍA AL USO DE ESTAS TÉCNICAS PARA FINES NO ÉTICOS.
+
+Aqui estamos para enseñar y concienciar a las personas de los posibles ataques que pueden sufrir, NO ESTOY NADA A FAVOR del uso malicioso de las técnicas vistas.
+
 ## ¿Qué es el Ransomware?
 
 El ransomware es un tipo de malware que cifra o bloquea archivos en un dispositivo o red, y luego el atacante solicita un pago (Normalmente en bitcoins o criptomonedas) a cambio de proporcionar la clave para recuperar tus datos y archivos. Los ciberdelincuentes detrás del ransomware aprovechan la vulnerabilidad de sistemas y la falta de medidas de seguridad para llevar a cabo sus ataques.

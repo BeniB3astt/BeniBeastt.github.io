@@ -22,6 +22,10 @@ En esta ocasión, vamos ha hablar sobre los ataques DDos, una gran amenaza para 
 **Estos Ataques buscan colapsar los servicios en línea al inundarlo de tráfico.**
 En este artículo hablaremos sobre que son los ataques DDos, cómo funcionan y que medidas podemos tomar para defendernos contra ellos.
 
+⚠️ IMPORTANTE:⚠️: Estos Articulos están realizados con FINES ÉTICOS y MORALES para concienciar al público de los diferentes ataques que pueden sufrir, como funcionan por detrás y como protegerse de ellos lo mejor que se pueda. EN NINGÚN MOMENTO SE HACE APLOGÍA AL USO DE ESTAS TÉCNICAS PARA FINES NO ÉTICOS.
+
+Aqui estamos para enseñar y concienciar a las personas de los posibles ataques que pueden sufrir, NO ESTOY NADA A FAVOR del uso malicioso de las técnicas vistas.
+
 
 ![](/assets/images/Articulo-Ataques-DDos/Portada.webp)
 
